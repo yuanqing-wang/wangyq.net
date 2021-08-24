@@ -5,7 +5,7 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 ### social media
 [![GitHub followers](https://img.shields.io/github/followers/tterb.svg?style=social&label=Follow)](https://github.com/yuanqing-wang/MyBadges)
 [![Twitter](https://img.shields.io/badge/yuanqingwang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yuanqingwang)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanqing-wang/)
+[![LinkedIn](https://img.shields.io/badge/yuanqingwang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanqing-wang/)
 
 
 ### publications
