@@ -1,5 +1,7 @@
 ## yuanqing wang
 
+![](https://media-exp1.licdn.com/dms/image/C4D03AQFzOrYpe1al_w/profile-displayphoto-shrink_200_200/0/1606528970177?e=1635379200&v=beta&t=_SQY8bh6_kGkCddjUchHjrzJwKPuDXxqVNECyvwLVQc)
+
 [![GitHub](https://img.shields.io/badge/yuanqing_wang-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuanqing-wang/)
 [![Twitter](https://img.shields.io/badge/yuanqingwang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yuanqingwang)
 [![LinkedIn](https://img.shields.io/badge/YuanqingWang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanqing-wang/)
