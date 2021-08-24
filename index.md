@@ -6,7 +6,7 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 [![Google](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en)
 
 ### Curriculum Vitae
-[cv.pdf](cv.pdf)
+[Yuanqing_Wang_CV.pdf](Yuanqing_Wang_CV.pdf)
 
 ### Publications
 
@@ -21,4 +21,4 @@ Wade AD, Rizzi A, **Wang Y**, and Huggins DJ. [Computational Fluorine Scanning U
 
 ### Teaching
 
-ENG 110 Freshman Composition @ City College of New York
+[ENG 110 Freshman Composition @ City College of New York](eng110.md)
