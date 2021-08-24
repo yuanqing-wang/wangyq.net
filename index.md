@@ -21,4 +21,4 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 
 ### Teaching
 
-[ENG 110 Freshman Composition @ City College of New York](www.eng110.wangyq.net)
+[ENG 110 Freshman Composition @ City College of New York](http://www.eng110.wangyq.net)
