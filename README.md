@@ -1,38 +1,20 @@
-## Yuanqing Wang
+## yuanqing wang
 
 By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at [Memorial Sloan Kettering Cancer Center](http://mskcc.org), where I'm interested in using graph neural modeling to facilitate all asepcts of drug discovery---from statistical to physical. When night falls, I write experimental short stories at the [City College of New York](http://ccny.cuny.edu). 
 
+### publications
 
-### Markdown
+**Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Wang Y**, Fass J, and Chodera JD. [End-to-End Differentiable Molecular Mechanics Force Field Con-
+struction.](https://arxiv.org/abs/2010.01196)
 
-```markdown
-Syntax highlighted code block
+**Wang Y**, Fass J, Stern C, Luo K, and Chodera JD. [Graph nets for partial charge prediction.](https://arxiv.org/abs/1909.07903)
 
-# Header 1
-## Header 2
-### Header 3
+Wade AD, Rizzi A, **Wang Y**, and Huggins DJ. [Computational Fluorine Scanning Using Free-Energy Perturbation.](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00228)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uli-ai/www/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
