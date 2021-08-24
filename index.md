@@ -8,6 +8,11 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 ### Curriculum Vitae
 [Yuanqing_Wang_CV.pdf](Yuanqing_Wang_CV.pdf)
 
+### Open Source Software Development
+[![GitHub](https://img.shields.io/badge/espaloma-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choderalab/espaloma/tree/master/espaloma)
+
+[![GitHub](https://img.shields.io/badge/pinot-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choderalab/pinot)
+
 ### Some Publications
 
 **Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
