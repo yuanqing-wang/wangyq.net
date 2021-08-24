@@ -21,4 +21,4 @@ Wade AD, Rizzi A, **Wang Y**, and Huggins DJ. [Computational Fluorine Scanning U
 
 ### Teaching
 
-[ENG 110 Freshman Composition @ City College of New York](eng110.md)
+[ENG 110 Freshman Composition @ City College of New York](teaching/eng110/syllabus.md)
