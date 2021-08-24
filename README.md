@@ -2,6 +2,9 @@
 
 By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at [Memorial Sloan Kettering Cancer Center](http://mskcc.org), where I'm interested in using graph neural modeling to facilitate all asepcts of drug discovery---from statistical to physical. When night falls, I write experimental short stories at the [City College of New York](http://ccny.cuny.edu). 
 
+### social media
+[![Twitter Follow](https://img.shields.io/twitter/follow/yuanqingwang.svg?style=social)](https://twitter.com/yuanqingwang) 
+
 ### publications
 
 **Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
