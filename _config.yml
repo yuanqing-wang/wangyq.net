@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Yuanqing Wang
 logo: https://media-exp1.licdn.com/dms/image/C4D03AQFzOrYpe1al_w/profile-displayphoto-shrink_200_200/0/1606528970177?e=1635379200&v=beta&t=_SQY8bh6_kGkCddjUchHjrzJwKPuDXxqVNECyvwLVQc
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Yuanqing Wang personal page.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
