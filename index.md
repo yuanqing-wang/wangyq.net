@@ -23,7 +23,7 @@ More at [![Google](https://img.shields.io/badge/google_scholar-4285F4?style=for-
 
 ### literary works
 - [_Stop the Train_](https://osf.io/ztd42/), a short story. First published on [Promethean](https://www.prometheanmag.com) 
-- _A Tale of Clear-Broth Noodles_ (Essay in Chinese). Collected in ISBN: [9787229105013](https://book.douban.com/subject/26640784/)
+- _A Tale of Clear-Broth Noodles_ (Essay in Chinese). Collected in [ISBN: 9787229105013](https://book.douban.com/subject/26640784/)
 
 
 ### teaching
