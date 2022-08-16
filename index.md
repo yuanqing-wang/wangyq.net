@@ -4,15 +4,15 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 [![Twitter](https://img.shields.io/badge/YuanqingWang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yuanqingwang)
 [![LinkedIn](https://img.shields.io/badge/YuanqingWang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanqing-wang/)
 
-### curriculum vitae
+### Curriculum Vitae
 [Yuanqing_Wang_CV.pdf](Yuanqing_Wang_CV.pdf)
 
-### open source software development
+### Open Source Software Development
 [![GitHub](https://img.shields.io/badge/espaloma-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choderalab/espaloma/tree/master/espaloma)
 [![GitHub](https://img.shields.io/badge/malt-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuanqing-wang/malt)
 [![GitHub](https://img.shields.io/badge/pinot-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/choderalab/pinot)
 
-### academic papers
+### Academic Papers
 
 - **Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
 - **Wang Y**, Fass J, and Chodera JD. [End-to-End Differentiable Molecular Mechanics Force Field Construction.](https://arxiv.org/abs/2010.01196)
@@ -21,12 +21,13 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 
 More at [![Google](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en)
 
-### literary works
+### Literary Works
 - _Stop the Train_, a short story. [Preprint](https://osf.io/ztd42/); Published on [Promethean](https://www.prometheanmag.com) 2022 Spring issue.
 - _A Tale of Clear-Broth Noodles_ (Essay in Chinese). Collected in [ISBN: 9787229105013](https://book.douban.com/subject/26640784/)
 
 
-### teaching
+### Teaching
 
 [ENG 110 Freshman Composition @ City College of New York](http://www.eng110.wangyq.net)
+[NSF-Sponsored Scientific Computing from Scratch (SCOTCH) Bootcamp](https://scotch.wangyq.net)
 
