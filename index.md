@@ -19,7 +19,7 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 - **Wang Y**, Fass J, Stern C, Luo K, and Chodera JD. [Graph nets for partial charge prediction.](https://arxiv.org/abs/1909.07903)
 - Wade AD, Rizzi A, **Wang Y**, and Huggins DJ. [Computational Fluorine Scanning Using Free-Energy Perturbation.](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00228)
 
-More at [![Google](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en)
+[![Google](https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en)
 
 ### Literary Works
 - _Stop the Train_, a short story. [Preprint](https://osf.io/ztd42/); Published on [Promethean](https://www.prometheanmag.com) 2022 Spring issue.
