@@ -14,7 +14,7 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 
 ### Academic Papers
 
-<script src="https://bibbase.org/show?bib=[URL-OF-BIBTEX-FILE]&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=citation.bib&jsonp=1"></script> 
 
 
 - **Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
