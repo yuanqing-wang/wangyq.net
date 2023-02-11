@@ -14,6 +14,9 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 
 ### Academic Papers
 
+<script src="https://bibbase.org/show?bib=[URL-OF-BIBTEX-FILE]&jsonp=1"></script> 
+
+
 - **Wang Y**, Karaletos T [Stochastic Aggregation in Graph Neural Networks](https://arxiv.org/abs/2102.12648)
 - **Wang Y**, Fass J, and Chodera JD. [End-to-End Differentiable Molecular Mechanics Force Field Construction.](https://arxiv.org/abs/2010.01196)
 - **Wang Y**, Fass J, Stern C, Luo K, and Chodera JD. [Graph nets for partial charge prediction.](https://arxiv.org/abs/1909.07903)
