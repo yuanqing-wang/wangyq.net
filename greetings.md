@@ -1,4 +1,4 @@
-Yuanqing Wang, M.B.A., M.F.A., Ph.D. 王源清 (he/him/his)
+王源清 Yuanqing Wang, M.B.A., M.F.A., Ph.D. (he/him/his)
 
 Simons Center Fellow, New York University
 
