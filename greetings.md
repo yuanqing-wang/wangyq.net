@@ -1,4 +1,5 @@
 Yuanqing Wang, M.B.A., M.F.A., Ph.D. 王源清 (he/him/his)
+
 Simons Center Fellow, New York University
 
 [![GitHub](https://img.shields.io/badge/yuanqing-wang-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuanqing-wang/)
