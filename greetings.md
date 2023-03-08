@@ -4,8 +4,6 @@ Yuanqing Wang, M.B.A., M.F.A., Ph.D. 王源清
 
 Simons Center Fellow, New York University
 
-Manager of Business Development, Open Molecular Science Foundation
-
 24 Waverly Place, New York, N.Y. 10003
 
 [wangyq@wangyq.net](mailto:wangyq@wangyq.net)
