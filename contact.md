@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: contact
 ---
 
 Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), Ph.D. <br>
