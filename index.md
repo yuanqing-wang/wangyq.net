@@ -4,6 +4,8 @@ By day, I'm a Ph.D. candidate in [John D. Chodera Lab](http://choderalab.org) at
 [![Twitter](https://img.shields.io/badge/YuanqingWang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yuanqingwang)
 [![LinkedIn](https://img.shields.io/badge/YuanqingWang-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanqing-wang/)
 
+### [Contact](contact.md)
+
 ### Curriculum Vitae
 [Yuanqing_Wang_CV.pdf](Yuanqing_Wang_CV.pdf)
 
