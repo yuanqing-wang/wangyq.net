@@ -2,7 +2,7 @@
 layout: contact
 ---
 
-Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), Ph.D. <br>
+Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest.com/docview/2789704784) <br>
 王源清 (he/him/his)
 
 [Simons Center](https://wp.nyu.edu/sccpc/) Fellow, [New York University](https://www.nyu.edu)
