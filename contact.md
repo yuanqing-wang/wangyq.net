@@ -5,10 +5,17 @@ layout: contact
 Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest.com/docview/2789704784) <br>
 王源清 (he/him/his)
 
-[Simons Center](https://wp.nyu.edu/sccpc/) Fellow, [New York University](https://www.nyu.edu), [24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y.<br>
-[Schmidt Science](https://schmidtsciencefellows.org) Fellow, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk), Oxford, U.K.<br>
-Visiting Research Fellow, [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org), New York, N.Y.<br>
-Manager of Business Development, [Open Molecular Science Foundation](https://omsf.io), Davis, Calif.
+[Simons Center](https://wp.nyu.edu/sccpc/) Fellow<br>
+[New York University](https://www.nyu.edu), [24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y.
+
+[Schmidt Science](https://schmidtsciencefellows.org) Fellow<br>
+[Rhodes Trust](https://www.rhodeshouse.ox.ac.uk), Oxford, U.K.
+
+Visiting Research Fellow <br>
+[Memorial Sloan Kettering Cancer Center](https://www.mskcc.org), New York, N.Y.
+
+Manager of Business Development <br> 
+[Open Molecular Science Foundation](https://omsf.io), Davis, Calif.
 
 [wangyq@wangyq.net](mailto:wangyq@wangyq.net)
 
