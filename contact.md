@@ -7,7 +7,7 @@ Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest
 
 [Simons Center](https://wp.nyu.edu/sccpc/) Fellow, [New York University](https://www.nyu.edu)
 
-[Schmidt Science](https://schmidtsciencefellows.org) Fellow<br>, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
+[Schmidt Science](https://schmidtsciencefellows.org) Fellow, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)
 
 Visiting Research Fellow, [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org)
 
