@@ -15,6 +15,7 @@ Manager of Business Development, [Open Molecular Science Foundation](https://oms
 ---
 
 [wangyq@wangyq.net](mailto:wangyq@wangyq.net)
+
 [24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y.
 
 ---
