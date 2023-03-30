@@ -10,13 +10,12 @@ Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest
 [Schmidt Science](https://schmidtsciencefellows.org) Fellow, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)<br>
 [Simons Center](https://wp.nyu.edu/sccpc/) Fellow, [New York University](https://www.nyu.edu)<br>
 Visiting Research Fellow, [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org)<br>
-Manager of Business Development, [Open Molecular Science Foundation](https://omsf.io)
+Manager, Business Development, [Open Molecular Science Foundation](https://omsf.io)
 
 ---
 
-[wangyq@wangyq.net](mailto:wangyq@wangyq.net)
-
-[24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y.
+[wangyq@wangyq.net](mailto:wangyq@wangyq.net)<br>
+[24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y. 10003
 
 ---
 
