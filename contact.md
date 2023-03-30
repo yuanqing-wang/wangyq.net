@@ -5,12 +5,19 @@ layout: contact
 Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest.com/docview/2789704784) <br>
 王源清 (he/him/his)
 
+---
+
 [Schmidt Science](https://schmidtsciencefellows.org) Fellow, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)<br>
 [Simons Center](https://wp.nyu.edu/sccpc/) Fellow, [New York University](https://www.nyu.edu)<br>
 Visiting Research Fellow, [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org)<br>
 Manager of Business Development, [Open Molecular Science Foundation](https://omsf.io)
 
-[24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y. | [wangyq@wangyq.net](mailto:wangyq@wangyq.net)
+---
+
+[wangyq@wangyq.net](mailto:wangyq@wangyq.net)
+[24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), New York, N.Y.
+
+---
 
 <a href="https://github.com/yuanqing-wang/"><img src ="https://edent.github.io/SuperTinyIcons/images/png/github.png" height=30></a>
 <a href="https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" height=30></a>
