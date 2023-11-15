@@ -20,4 +20,4 @@ Manager of Business Dev., [Open Molecular Science Foundation](https://omsf.io)
 <a href="https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" height=30></a>
 <a href="https://twitter.com/yuanqingwang"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" height=30></a>
 <a href="https://www.linkedin.com/in/yuanqing-wang/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" height=30></a>
-<a href="https://calendly.com/yuanqingwang"><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" height=30></a>
+<a href="https://calendar.app.google/H8SzmkyMgwqSzQTU7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" height=30></a>
