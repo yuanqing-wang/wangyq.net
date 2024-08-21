@@ -7,7 +7,6 @@ Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest
 [Schmidt Science](https://schmidtsciencefellows.org) Fellow, [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk)<br>
 Co-Investigator, [Open Force Field](https://openforcefield.org)<br>
 Visiting Research Fellow, [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org)<br>
-Manager of Business Dev., [Open Molecular Science Foundation](https://omsf.io)
 
 ---
 
@@ -15,6 +14,10 @@ Manager of Business Dev., [Open Molecular Science Foundation](https://omsf.io)
 [24 Waverly Place](https://goo.gl/maps/ix44mrT9RyETabjT8), Suite 1167, New York, N.Y. 10003
 
 ---
+
+I design graph-based machine learning models with physics-inspired inductive biases to accelerate drug discovery.
+[Research Statement](http://dx.doi.org/10.13140/RG.2.2.17450.02241)
+
 
 <a href="https://github.com/yuanqing-wang/"><img src ="https://edent.github.io/SuperTinyIcons/images/png/github.png" height=30></a>
 <a href="https://scholar.google.com/citations?user=Njp5EY4AAAAJ&hl=en"><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" height=30></a>
