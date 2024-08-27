@@ -3,7 +3,7 @@ Yuanqing Wang, M.B.A., [M.F.A.](https://osf.io/nq4sx/), [Ph.D.](https://proquest
 
 ---
 
-[Research Statement](https://osf.io/preprints/osf/d7qwe): I design graph-based machine learning models with physics-inspired inductive biases to accelerate drug discovery.
+[Research Statement](https://doi.org/10.31219/osf.io/nq4sx): I design graph-based machine learning models with physics-inspired inductive biases to accelerate drug discovery.
 
 
 ---
